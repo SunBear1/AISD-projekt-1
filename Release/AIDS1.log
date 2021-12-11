@@ -1,0 +1,9 @@
+﻿  AIDS1.cpp
+C:\Users\lukin\OneDrive\INF\AIDS1\AIDS1.cpp(19,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lukin\OneDrive\INF\AIDS1\AIDS1.cpp(24,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  105 of 129 functions (81.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  AIDS1.vcxproj -> C:\Users\lukin\OneDrive\INF\AIDS1\Release\AIDS1.exe
